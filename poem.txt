@@ -2,6 +2,7 @@ Football
 
 One ball
 Two teams
+Two Managers
 Eleven players on each side
 One in goal amd ten outfield
 A match has three outcomes
