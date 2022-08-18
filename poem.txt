@@ -5,6 +5,7 @@ Two teams
 Two Managers
 Eleven players on each side
 One in goal amd ten outfield
+One Referee
 A match has three outcomes
 Win
 Lose
