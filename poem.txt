@@ -2,7 +2,8 @@ Football
 
 One ball
 Two teams
-Two Managers
+Two managers
+Too many coaches
 Eleven players on each side
 One in goal amd ten outfield
 One Referee
