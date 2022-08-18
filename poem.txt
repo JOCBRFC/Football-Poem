@@ -1,0 +1,10 @@
+Football
+
+One ball
+Two teams
+Eleven players on each side
+One in goal amd ten outfield
+A match has three outcomes
+Win
+Lose
+Draw
